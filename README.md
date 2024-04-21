@@ -24,5 +24,7 @@ Open the terminal and follow these instructions:
    ```
    ./tictactoe
    ```
-5. **Play the Game**: Follow the on-screen prompts to make your moves. Enter a number of the location you wish to place your symbol (X or O) on the grid.
+5. **Play the Game**
+   
+   Follow the on-screen prompts to make your moves. Enter a number of the location you wish to place your symbol (X or O) on the grid.
 
