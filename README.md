@@ -19,5 +19,5 @@ This is a simple command-line implementation of the classic Tic-Tac-Toe game usi
    ```
    ./tictactoe
    ```
-4. **Play the Game**: Follow the on-screen prompts to make your moves. Enter the row and column numbers to place your symbol (X or O) on the grid.
+4. **Play the Game**: Follow the on-screen prompts to make your moves. Enter number of location where you wish to place your symbol (X or O) on the grid.
 5. **Winning**: The game will announce the winner when a player achieves three of their symbols in a row, column, or diagonal, or declare a draw if the board is filled without a winner.
