@@ -9,7 +9,7 @@ This is a simple command-line implementation of the classic Tic-Tac-Toe game usi
 ## How to Play
 1. **Clone the repository**
    ```shell
-   git clone https://github.com/salmarashad/Tic_Tac_Toe.git
+   git clone https://github.com/salmarashad/Tic-Tac-Toe.git
    ```
 2. **Compile the Code**
    ```
