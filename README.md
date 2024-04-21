@@ -7,6 +7,7 @@ This is a simple command-line implementation of the classic Tic-Tac-Toe game usi
 - Win Detection: Automatically detects when a player has won or if the game ends in a draw.
   
 ## How to Play
+Open the terminal and follow these instructions:
 1. **Clone the repository**
    ```
    git clone https://github.com/salmarashad/Tic-Tac-Toe.git
@@ -23,5 +24,5 @@ This is a simple command-line implementation of the classic Tic-Tac-Toe game usi
    ```
    ./tictactoe
    ```
-5. **Play the Game**: Follow the on-screen prompts to make your moves. Enter number of location where you wish to place your symbol (X or O) on the grid.
-6. **Winning**: The game will announce the winner when a player achieves three of their symbols in a row, column, or diagonal, or declare a draw if the board is filled without a winner.
+5. **Play the Game**: Follow the on-screen prompts to make your moves. Enter a number of the location you wish to place your symbol (X or O) on the grid.
+
