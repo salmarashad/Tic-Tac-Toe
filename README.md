@@ -8,16 +8,20 @@ This is a simple command-line implementation of the classic Tic-Tac-Toe game usi
   
 ## How to Play
 1. **Clone the repository**
-   ```shell
+   ```
    git clone https://github.com/salmarashad/Tic-Tac-Toe.git
    ```
-2. **Compile the Code**
+2. **Enter the directory**
    ```
-   g++ -o tictactoe main.cpp
+   cd Tic-Tac-Toe
    ```
-3. **Run the Game**
+3. **Compile the Code**
+   ```
+   g++ -o tictactoe tictactoe.cpp
+   ```
+4. **Run the Game**
    ```
    ./tictactoe
    ```
-4. **Play the Game**: Follow the on-screen prompts to make your moves. Enter number of location where you wish to place your symbol (X or O) on the grid.
-5. **Winning**: The game will announce the winner when a player achieves three of their symbols in a row, column, or diagonal, or declare a draw if the board is filled without a winner.
+5. **Play the Game**: Follow the on-screen prompts to make your moves. Enter number of location where you wish to place your symbol (X or O) on the grid.
+6. **Winning**: The game will announce the winner when a player achieves three of their symbols in a row, column, or diagonal, or declare a draw if the board is filled without a winner.
