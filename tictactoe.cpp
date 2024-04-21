@@ -1,10 +1,10 @@
 #include <iostream>
-using namespace  std;
-
-char square [10] = {'f', '1', '2','3', '4', '5', '6', '7',  '8', '9'};
 #define RESET   "\033[0m"
 #define RED     "\033[31m"
 #define GREEN   "\033[32m"
+using namespace  std;
+
+char square [10] = {'f', '1', '2','3', '4', '5', '6', '7',  '8', '9'};
 
 //Checking for winning conditions
 int checkWin() {
