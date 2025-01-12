@@ -72,7 +72,7 @@ int main()
         cout <<"\t\t  Player "<< turn<< "'s turn"<<endl;
         drawBoard();
         cin >> input;
-        if(input < 0 || input >9 || square[input] < '0' || square[input]> '9') {
+        while(input < 0 || input >9 || square[input] < '0' || square[input]> '9') {
             cout << "Invalid input, please enter again";
             cin >> input;
         }
